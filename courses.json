@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Mathematics",
+        "enrolledStudents": 0,
+        "availableSlots": 10
+    },
+    {
+        "id": 2,
+        "name": "Physics",
+        "enrolledStudents": 0,
+        "availableSlots": 9
+    },
+    {
+        "id": 3,
+        "name": "Chemistry",
+        "enrolledStudents": 2,
+        "availableSlots": 8
+    },
+    {
+        "id": 4,
+        "name": "Biology",
+        "enrolledStudents": 0,
+        "availableSlots": 10
+    },
+    {
+        "id": 5,
+        "name": "History",
+        "enrolledStudents": 0,
+        "availableSlots": 10
+    },
+    {
+        "id": 6,
+        "name": "Political Science",
+        "enrolledStudents": 0,
+        "availableSlots": 10
+    },
+    {
+        "id": 7,
+        "name": "Economics",
+        "enrolledStudents": 0,
+        "availableSlots": 10
+    },
+    {
+        "id": 8,
+        "name": "Computer Science",
+        "enrolledStudents": 0,
+        "availableSlots": 10
+    },
+    {
+        "id": 9,
+        "name": "Engineering Graphics",
+        "enrolledStudents": 0,
+        "availableSlots": 10
+    },
+    {
+        "id": 10,
+        "name": "Philosophy",
+        "enrolledStudents": 0,
+        "availableSlots": 10
+    },
+    {
+        "id": 11,
+        "name": "Introduction to Programming",
+        "enrolledStudents": 0,
+        "availableSlots": 10
+    },
+    {
+        "id": 12,
+        "name": "Data Structures and Algorithms",
+        "enrolledStudents": 0,
+        "availableSlots": 7
+    },
+    {
+        "id": 13,
+        "name": "Database Management Systems",
+        "availableSeats": 2,
+        "enrolledStudents": 0
+    }
+]
